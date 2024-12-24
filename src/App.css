@@ -1,0 +1,83 @@
+/* General Reset and Base Styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    background-color:lightpink;
+  }
+  
+  /* Header Styling */
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+  }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1rem;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Footer Styling */
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.9rem;
+  }
+  
+  /* Page Content Styling */
+  main {
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #444;
+    font-size: 1.6rem;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  /* Home Page Styling */
+  .home {
+    text-align: center;
+  }
+  
+  /* About Page Styling */
+  .about {
+    padding: 20px;
+    background-color: #e6e6fa;
+    border-radius: 10px;
+  }
+  
+  /* Contact Page Styling */
+  .contact {
+    padding: 20px;
+    background-color: #ffe4e1;
+    border-radius: 10px;
+  }
+  
+ 
